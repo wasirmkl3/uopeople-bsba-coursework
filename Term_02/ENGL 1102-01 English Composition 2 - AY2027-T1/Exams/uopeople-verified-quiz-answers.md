@@ -1478,3 +1478,76 @@ readings — it was answered from standard APA knowledge.*
 - **Score: 39/40.** The only miss was Q12 (inductive vs. hypothetico-deductive). The key was **Hypothetico-deductive method**.
 - **Review quiz totals:** first set 40/40, second set 39/40 (miss: Q12). The Q12 miss is documented above as a trap.
 - Roughly half of the second set repeated earlier entries, so look them up in the bank first.
+
+
+---
+
+## Term 2 Review Quiz — third set (20/20 confirmed correct)
+
+*Sourcing note: bank-first, then the readings (Serdikoff Ch. 1, Ch. 7 and the APA chapter; Weaver 3.8, 2.4 and 4.5; Hall & Wallace 3.1; UW Writing Center abstract guide). Answers were re-verified once before being submitted.*
+
+**Repeats, all CONFIRMED CORRECT with the same answers as earlier entries:**
+- **Q1:** HM case study (dissociation between short-term and long-term memory)
+- **Q2:** Accessible population
+- **Q4:** Abstract advice (summarize key points without citing references)
+- **Q5:** Abstract citations (False)
+- **Q6:** Humanities abstract tense (Present tense)
+- **Q8:** APA running head (automatic header function)
+- **Q9:** Reporting methods matching (1-b, 2-d, 3-c, 4-a)
+- **Q13:** Strong conclusion (restate the thesis in different words)
+- **Q15:** Goal of control (bringing about changes using knowledge of functional relationships)
+- **Q16:** SMART components matching (1-b, 2-c, 3-a, 4-e, 5-d)
+- **Q19:** Credibility method (SIFT)
+
+**3. What is the primary purpose of using qualitative visuals in persuasive writing?**
+- To support logical reasoning. / To appeal to the audience's emotions. / To provide statistical evidence. / To avoid using text.
+
+**Answer: To appeal to the audience's emotions.** — CONFIRMED CORRECT
+*Source: Weaver 3.8 (Persuasion, Part 2): quantitative visuals (graphs, charts) make logical appeals (logos); qualitative visuals (photographs, images) make emotional appeals (pathos). Pairs with the confirmed bar-graph = logos answer.*
+
+---
+
+**7. Match heading levels with formatting: Level 1 / Level 2 / Level 3. Characteristics: a. Centred, boldface, uppercase and lowercase. b. Indented boldface, lowercase paragraph heading ending with a period. c. Flush left, boldface, uppercase and lowercase.**
+- 1-b, 2-a, 3-c / 1-b, 2-c, 3-a / 1-a, 2-c, 3-b / 1-c, 2-b, 3-a
+
+**Answer: 1-a, 2-c, 3-b** — CONFIRMED CORRECT
+*Level 1 = centred bold; Level 2 = flush left bold (matches Unit 6 Set 1 Q3); Level 3 = indented bold lowercase paragraph heading ending with a period. This quiz uses the older (APA 6-style) Level 3, not the APA 7 flush-left bold italic version.*
+
+---
+
+**10. True or false: considering the audience's age, education level and expectations helps tailor a presentation.** — **True** — CONFIRMED CORRECT
+
+**11. Controlling idea in "The rising suicide rate among young professionals is a cause for immediate concern."**
+- Rising suicide rates / Immediate concern about the rising suicide rates / Young professionals / Discussion of suicide prevention
+
+**Answer: Immediate concern about the rising suicide rates** — CONFIRMED CORRECT
+*Source: Hall & Wallace 3.1 uses this exact sentence as a "stronger example". The controlling idea is the writer's stance on the topic, here "a cause for immediate concern". "Rising suicide rates" is only the main idea (the topic).*
+
+---
+
+**12. APA style discourages biased language by emphasizing ________ when referring to people.** — **Person first language** — CONFIRMED CORRECT
+*Source: Serdikoff APA chapter: put the "person first", e.g. "people diagnosed with schizophrenia" rather than "schizophrenics".*
+
+**14. During editing, writers primarily focus on ___________.** — **Enhancing grammar, punctuation, and sentence structure.** — CONFIRMED CORRECT (Weaver 2.4; revising is about ideas, editing is about how they are expressed)
+
+**17. A characteristic of the scientific method?** — **Testing ideas using systematic observations under controlled conditions.** — CONFIRMED CORRECT (Serdikoff Ch. 1: systematic empiricism)
+
+**18. Which research method manipulates one variable to determine its effect on another, typically under controlled conditions?** — **Experiment.** — CONFIRMED CORRECT
+
+**20. If a source is found to lack credibility, what is the most appropriate action?**
+- Use it with other reliable sources. / Cross check the information with other reliable sources. / Focus on its style rather than content. / Ignore its content completely.
+
+**Answer: Cross check the information with other reliable sources.** — CONFIRMED CORRECT
+*Source: Weaver 4.5 says to avoid questionable sources as final sources and to be suspicious of facts that cannot be confirmed elsewhere; Scribbr's credibility guide also asks whether information can be verified elsewhere. This was the least certain answer at first pass, now confirmed.*
+
+---
+
+## Term 2 Review Quiz — overall running notes
+
+- **Review quiz totals:** set 1 40/40, set 2 39/40 (miss: Q12, key Hypothetico-deductive method), set 3 20/20.
+- This bank has now answered the same small pool across three review sets. Roughly half of each set repeated earlier entries, so look up the bank first.
+- **Traps to carry forward from the review quizzes:**
+  1. **Observation to theory scenario → Hypothetico-deductive method**, not Inductive reasoning (when both are offered).
+  2. **Classical conditioning "learned response to a previously neutral stimulus" → Conditioned response** (an earlier report of "Conditioned stimulus" was retracted).
+  3. **Qualitative visuals → emotions (pathos); quantitative visuals/graphs → logic (logos).**
+  4. **Lacking credibility → cross check with other reliable sources**, neither use it as-is nor ignore it completely.
