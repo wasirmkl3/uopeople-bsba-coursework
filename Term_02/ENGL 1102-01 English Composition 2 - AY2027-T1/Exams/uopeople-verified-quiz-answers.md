@@ -1411,3 +1411,70 @@ readings — it was answered from standard APA knowledge.*
 - **Score: 39/40.** The only miss was Q1 (classical conditioning). The key was **Conditioned stimulus**, which conflicts with the earlier Unit 1 self-quiz result for "Conditioned response".
 - About 20 of the 40 questions were repeats from earlier units, so the bank-first lookup handled most of the quiz.
 - New topics this quiz: abstracts (content, timing, tense, no citations), CRAAP and SIFT, Bloom's "understand" verbs, aims vs. objectives, editing vs. revising, APA page number and running head, Type 1 error, and academic paragraph types.
+
+
+---
+
+## Term 2 Review Quiz — second set (39/40 confirmed correct, 1 confirmed wrong)
+
+*Sourcing note: bank-first, then the readings (Serdikoff Ch. 3 and the APA chapter; UW Writing Center abstract guide; Weaver 2.4). Repeats of earlier entries are listed briefly. New or notable questions are logged in full below.*
+
+**Repeats, all CONFIRMED CORRECT with the same answers as earlier entries:** counterargument credibility (Hetet), quantitative research (numerical data and statistical analysis), pathos (emotions and values), logos for a bar graph, why acknowledge opposing arguments (show respect and credibility), graph labelling (clearly labelling all axes and data points), formal report style (avoid including personal opinions), inferential statistics (True), three sources of research ideas (informal observations, practical problems, previous research), sequence transition (First), thesis length and position (One sentence; end), editing and verb agreement (Agrees), basic vs. applied (theory vs. practical issues), timely goal (clear start and finish date), research objectives (Measurable, Time-based), primary goal of research (False), CRAAP (relevant and reliable), feedback (balancing positivity and critique), Google Docs (real time collaboration and editing), Mehl and colleagues (Empiricism), limitation of authority (may have their own reasons to mislead), goal of control (manipulate variables).
+
+**9. Which of the following is a potential ADVANTAGE of presenting research at a conference before publishing it in a journal?**
+- It guarantees the research will be accepted for publication. / It allows for feedback from peers to improve the research. / It ensures immediate recognition and awards. / It avoids the peer review process entirely.
+
+**Answer: It allows for feedback from peers to improve the research.** — CONFIRMED CORRECT
+*This is the "advantage" version of the Unit 6 "disadvantage" question. The same option is the key for both wordings.*
+
+---
+
+**12. A researcher observes that students perform better on well-practiced tasks when watched by others but worse on poorly practiced tasks. Using this observation, they propose a theory involving physiological arousal and dominant responses. What method are they using?**
+- Inductive reasoning. / Deductive reasoning. / Hypothetico-deductive method. / General model of research.
+
+**Answer: Hypothetico-deductive method.** — quiz key per user's result. The assistant's answer, **"Inductive reasoning."**, was CONFIRMED WRONG.
+***Trap note:** the scenario only goes from an observation to a theory, which reads as induction. The key still treats it as the hypothetico-deductive method. Serdikoff's definition (Ch. 3, "Developing a Hypothesis") describes starting with an observed phenomenon, building a theory, then predicting and testing, so the whole cycle is named by that term. The social facilitation (Zajonc) example is Serdikoff's own illustration of that method. If a scenario starts from an observed phenomenon and ends in a theory, choose Hypothetico-deductive over Inductive when both are offered.*
+
+---
+
+**13. Linta's vague thesis "Time management is important for students." Best revision?** — **College students should manage their time well in order to succeed academically and maintain a healthy work life balance.** — CONFIRMED CORRECT
+
+**7. Researcher's results are consistent with the hypothesis, but a colleague points out another theory could also explain them. Most appropriate conclusion?** — **The hypothesis is supported, but further testing is needed to confirm the theory.** — CONFIRMED CORRECT
+
+**16. Transitions are crucial for improving the ________ of an essay by making ideas flow smoothly.** — **Coherence.** — CONFIRMED CORRECT
+
+**17. Required element for all APA style papers, both professional and student?** — **Title page.** — CONFIRMED CORRECT
+*Source: Serdikoff APA chapter: title page, page numbers, body and reference list are required for both. The abstract and running head are required only for professional papers.*
+
+**19. Best description of the purpose of revising?** — **Taking a second look at ideas to clarify and improve them.** — CONFIRMED CORRECT (Weaver 2.4; "adding or changing words to improve style" describes editing)
+
+**20. In a strong conclusion, it is important to ________.** — **Restate the thesis in different words.** — CONFIRMED CORRECT
+
+**21. Basic research focuses on understanding behaviour and _______ research aims to solve specific practical problems.** — **Applied.** — CONFIRMED CORRECT
+
+**24. Most appropriate research objective for studying study habits and grades in online learning?** — **To explore how study habits affect student grades in online courses.** — CONFIRMED CORRECT
+
+**27. In a research paper the ______ presents an original thesis and develops it using ideas and information from various sources.** — **Narrative.** — CONFIRMED CORRECT
+*Low-confidence guess at answer time, now confirmed. Likely based on the Weaver line that a research paper presents an original thesis and builds "a narrative" to support an argument.*
+
+**29. True or false: Secondary sources provide firsthand information or raw data.** — **False** — CONFIRMED CORRECT (primary sources provide firsthand information)
+
+**34. Least relevant consideration when developing a strong essay topic?** — **How many paragraphs should the essay contain to address this topic?** — CONFIRMED CORRECT
+
+**36. Editing an abstract that includes references and detailed data analysis. What to recommend?** — **Remove references and summarize the analysis briefly.** — CONFIRMED CORRECT (UW Writing Center: abstracts usually do not cite references)
+
+**37. In humanities abstracts, what tense explains the significance of texts?** — **Present tense.** — CONFIRMED CORRECT (UW Writing Center, Sample 2)
+
+**38. Which section should you wait to write until the entire paper is drafted?** — **Abstract.** — CONFIRMED CORRECT
+
+**39. True or false: an abstract must always include citations.** — **False** — CONFIRMED CORRECT (also in the first review quiz)
+
+**40. Primary role of an abstract in academic publishing?** — **To improve the paper's SEO and indexing.** — CONFIRMED CORRECT (UW Writing Center: search engines and databases use abstracts and titles to index papers)
+
+---
+
+## Term 2 Review Quiz — second set running notes
+
+- **Score: 39/40.** The only miss was Q12 (inductive vs. hypothetico-deductive). The key was **Hypothetico-deductive method**.
+- **Review quiz totals:** first set 39/40 (miss: classical conditioning, key "Conditioned stimulus"), second set 39/40 (miss: Q12). Both misses are documented above as traps.
+- Roughly half of the second set repeated earlier entries, so look them up in the bank first.
