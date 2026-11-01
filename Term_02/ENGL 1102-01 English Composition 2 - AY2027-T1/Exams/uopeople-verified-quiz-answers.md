@@ -98,7 +98,7 @@ Descriptions: a. Determining the causes of behavior by identifying relationships
 - Unconditioned response.
 - Conditioned stimulus.
 
-**Answer: Conditioned response.** — CONFIRMED CORRECT on the Unit 1 self-quiz, but **CONFLICTING RESULT on the Term 2 review quiz**: the same question with the same option set was marked wrong there, and the key was **Conditioned stimulus.** See "Term 2 Review Quiz" below. Textbook-wise "conditioned response" is the standard answer, so the quiz key is inconsistent. If this reappears on the final, go with the most recent result (**Conditioned stimulus**), and report the outcome so this entry can be settled.
+**Answer: Conditioned response.** — CONFIRMED CORRECT (Unit 1 self-quiz, and again on the first Term 2 review quiz). *Correction history: an earlier version of this entry recorded a conflicting result, with "Conditioned stimulus" as the key on the review quiz. The user later retracted that report; "Conditioned response" was the correct answer both times.*
 
 ---
 
@@ -1303,15 +1303,15 @@ readings — it was answered from standard APA knowledge.*
 
 ---
 
-## Term 2 Review Quiz (39/40 confirmed correct, 1 confirmed wrong)
+## Term 2 Review Quiz (40/40 confirmed correct)
 
 *Sourcing note: answered bank-first, then the readings (Hall & Wallace 4.1; Serdikoff Ch. 7 and the APA chapter; Weaver 2.4; UW Writing Center abstract guide; Colorado College Bloom's list; Scribbr aims/objectives). Q18, Q23, Q25 and Q26 rest on web/linked sources and general knowledge more than on a specific line in the readings.*
 
 **1. In classical conditioning, what is the term for the learned response to a previously neutral stimulus?**
 - Conditioned stimulus. / Unconditioned stimulus. / Conditioned response. / Unconditioned response.
 
-**Answer: Conditioned stimulus.** — quiz key per user's result. The assistant's answer, **"Conditioned response."**, was CONFIRMED WRONG here.
-***Trap note:** this contradicts the Unit 1 self-quiz entry (Unit 1 Q7), where "Conditioned response" scored correct for the same wording. The standard textbook answer is conditioned response, so the quiz key is inconsistent between sets. On the final, use the most recent result (Conditioned stimulus) and report back so it can be settled.*
+**Answer: Conditioned response.** — CONFIRMED CORRECT
+*Correction history: the user first reported this as wrong with "Conditioned stimulus" as the key, then retracted that report. "Conditioned response" is correct, consistent with the Unit 1 self-quiz entry (Unit 1 Q7) and the standard textbook definition. Do NOT pick "Conditioned stimulus".*
 
 ---
 
@@ -1408,7 +1408,7 @@ readings — it was answered from standard APA knowledge.*
 
 ## Term 2 Review Quiz — running notes
 
-- **Score: 39/40.** The only miss was Q1 (classical conditioning). The key was **Conditioned stimulus**, which conflicts with the earlier Unit 1 self-quiz result for "Conditioned response".
+- **Score: 40/40.** No misses. (An earlier note logged Q1 as a miss. That was retracted by the user and corrected above.)
 - About 20 of the 40 questions were repeats from earlier units, so the bank-first lookup handled most of the quiz.
 - New topics this quiz: abstracts (content, timing, tense, no citations), CRAAP and SIFT, Bloom's "understand" verbs, aims vs. objectives, editing vs. revising, APA page number and running head, Type 1 error, and academic paragraph types.
 
@@ -1476,5 +1476,5 @@ readings — it was answered from standard APA knowledge.*
 ## Term 2 Review Quiz — second set running notes
 
 - **Score: 39/40.** The only miss was Q12 (inductive vs. hypothetico-deductive). The key was **Hypothetico-deductive method**.
-- **Review quiz totals:** first set 39/40 (miss: classical conditioning, key "Conditioned stimulus"), second set 39/40 (miss: Q12). Both misses are documented above as traps.
+- **Review quiz totals:** first set 40/40, second set 39/40 (miss: Q12). The Q12 miss is documented above as a trap.
 - Roughly half of the second set repeated earlier entries, so look them up in the bank first.
