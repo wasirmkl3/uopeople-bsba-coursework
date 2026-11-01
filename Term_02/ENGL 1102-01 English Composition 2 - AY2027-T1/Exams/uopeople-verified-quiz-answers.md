@@ -98,7 +98,7 @@ Descriptions: a. Determining the causes of behavior by identifying relationships
 - Unconditioned response.
 - Conditioned stimulus.
 
-**Answer: Conditioned response.** — CONFIRMED CORRECT
+**Answer: Conditioned response.** — CONFIRMED CORRECT on the Unit 1 self-quiz, but **CONFLICTING RESULT on the Term 2 review quiz**: the same question with the same option set was marked wrong there, and the key was **Conditioned stimulus.** See "Term 2 Review Quiz" below. Textbook-wise "conditioned response" is the standard answer, so the quiz key is inconsistent. If this reappears on the final, go with the most recent result (**Conditioned stimulus**), and report the outcome so this entry can be settled.
 
 ---
 
@@ -1299,3 +1299,115 @@ readings — it was answered from standard APA knowledge.*
   look these up in the bank first.
 - **Conference-presentation "disadvantage" question → the key is "It allows for feedback from peers to
   improve the research."** Confirmed twice (wrong on the first attempt with the other option, correct on the second).
+
+
+---
+
+## Term 2 Review Quiz (39/40 confirmed correct, 1 confirmed wrong)
+
+*Sourcing note: answered bank-first, then the readings (Hall & Wallace 4.1; Serdikoff Ch. 7 and the APA chapter; Weaver 2.4; UW Writing Center abstract guide; Colorado College Bloom's list; Scribbr aims/objectives). Q18, Q23, Q25 and Q26 rest on web/linked sources and general knowledge more than on a specific line in the readings.*
+
+**1. In classical conditioning, what is the term for the learned response to a previously neutral stimulus?**
+- Conditioned stimulus. / Unconditioned stimulus. / Conditioned response. / Unconditioned response.
+
+**Answer: Conditioned stimulus.** — quiz key per user's result. The assistant's answer, **"Conditioned response."**, was CONFIRMED WRONG here.
+***Trap note:** this contradicts the Unit 1 self-quiz entry (Unit 1 Q7), where "Conditioned response" scored correct for the same wording. The standard textbook answer is conditioned response, so the quiz key is inconsistent between sets. On the final, use the most recent result (Conditioned stimulus) and report back so it can be settled.*
+
+---
+
+**2. What does basic research aim to achieve?** — **Develop theories and test them.** — CONFIRMED CORRECT (repeat of Unit 3 Q21)
+
+**3. What is the focus of cognitive psychology?** — **Study of mental processes like memory, perception and problem solving.** — CONFIRMED CORRECT (repeat of Unit 1 Q11)
+
+**4. What is the role of the scientific goal of control in psychological research?** — **To manipulate variables to observe changes in behaviour.** — CONFIRMED CORRECT (consistent with Unit 4 Q8)
+
+**5. What does Tuyet's idea map suggest as a narrowed topic?** — **Music piracy.** — CONFIRMED CORRECT
+*Source: Hall & Wallace 4.1: Tuyet narrows "mass media" to the more specific topic of music piracy.*
+
+**6. HM case study — which statement is true?** — **HM's case demonstrated a dissociation between short-term and long-term memory.** — CONFIRMED CORRECT
+*Source: Serdikoff Ch. 7. His IQ and personality were unaffected, his short-term memory was preserved, and he could converse but forgot the conversation afterwards.*
+
+**7. Key characteristic of quantitative research?** — **It involves numerical data and statistical analysis.** — CONFIRMED CORRECT (repeat of Unit 5 Set 1 Q5)
+
+**8. Rhetorical appeal when a writer includes a bar graph of statistical data?** — **Logos.** — CONFIRMED CORRECT (logos = facts and data, Unit 5)
+
+**9. Qualitative research emphasizes the participant's _____ aiming to understand their experiences in detail.** — **Subjective experience.** — CONFIRMED CORRECT
+
+**10. Significant advantage of focus groups in qualitative research?** — **They enable interactions that may bring out more information.** — CONFIRMED CORRECT
+*Source: Serdikoff Ch. 7: interaction among participants can bring out more information than a one-on-one interview.*
+
+**11. Why avoid writing your abstract before drafting the full paper?** — **It will lack key details from the study.** — CONFIRMED CORRECT
+*Source: UW Writing Center: wait until the paper is drafted "so that you know what you're summarizing".*
+
+**12. Primary tense for methods in a science abstract?** — **Past tense.** — CONFIRMED CORRECT (UW Writing Center)
+
+**13. True or false: an abstract must always include citations.** — **False** — CONFIRMED CORRECT (UW: you usually do not cite references in an abstract)
+
+**14. Component commonly included in a well-written abstract?** — **The research question and key findings.** — CONFIRMED CORRECT
+
+**15. Best time to write an abstract?** — **After drafting the entire paper.** — CONFIRMED CORRECT
+
+**16. Method often used to evaluate the credibility of a source?** — **SIFT method.** — CONFIRMED CORRECT
+*Note: CRAAP and SIFT both appear across the pool. Q16 offered SIFT (not CRAAP) and Q18 offered CRAAP (not SIFT), so each question has only one valid option.*
+
+**17. Primary purpose of writing a research paper?** — **To develop an original thesis supported by research.** — CONFIRMED CORRECT (repeat of Unit 3 Q4)
+
+**18. Method commonly used to evaluate the reliability of online sources?** — **CRAAP test.** — CONFIRMED CORRECT
+
+**19. Research gap for absence of adequate methods or need for new techniques?** — **Methodological gaps.** — CONFIRMED CORRECT (repeat of Unit 3 Q7)
+
+**20. Primary purpose of the CRAAP test?** — **To ensure the source is relevant and reliable.** — CONFIRMED CORRECT
+
+**21. Main purpose of making a goal timely?** — **To provide a clear start and finish date.** — CONFIRMED CORRECT (repeat of Unit 6 graded Q5)
+
+**22. Best description of a realistic SMART goal?** — **A goal that challenges you but is still attainable** — CONFIRMED CORRECT (matches Unit 2 Q7)
+
+**23. Verb most appropriate for the "understand" level of Bloom's revised taxonomy?** — **Categorize** — CONFIRMED CORRECT
+*Source: Colorado College list: categorize is an Understand verb. Define is Remember; Apply and Create are separate levels.*
+
+**24. Match types of research with descriptions (basic / applied / observational / experimental).** — **1-a, 2-b, 3-c, 4-d** — CONFIRMED CORRECT
+*Basic = sex differences in talkativeness; Applied = cell phone use and driving safety; Observational = surveys or natural observation; Experimental = manipulating variables to test causal relationships. Match by description text, not by remembered letter string.*
+
+**25. Main difference between research aims and objectives?** — **Research aims are general, while research objectives are specific.** — CONFIRMED CORRECT (Scribbr, Unit 4 reading)
+
+**26. One of the main purposes of editing?** — **To make sure the document follows correct grammar, punctuation and format.** — CONFIRMED CORRECT
+*Source: Weaver 2.4: editing looks at how ideas are expressed. The other options describe revising.*
+
+**27. Key purpose of the closing of the introduction in a research report?** — **To clearly state the main research question and hypothesis.** — CONFIRMED CORRECT (Serdikoff APA chapter, "The Closing")
+
+**28. Primary purpose of revising an essay?** — **To refine ideas, structure and clarity.** — CONFIRMED CORRECT
+
+**29. When editing, every verb _______ with its subject.** — **Agrees.** — CONFIRMED CORRECT
+
+**30. Strategy NOT recommended for improving unity and coherence?** — **Including off topic anecdotes for interest.** — CONFIRMED CORRECT
+
+**31. Where should the page number appear in an APA report?** — **Top right corner with a running head.** — CONFIRMED CORRECT
+*Source: Serdikoff APA chapter: page number in the upper right of the header. The running head is upper left, so "Top left corner with a running head" is wrong.*
+
+**32. Heading Level 2 is characterized by _____** — **Flush left, boldface, uppercase and lowercase** — CONFIRMED CORRECT (repeat of Unit 6 Set 1 Q3)
+
+**33. The _____ is a shortened version of the title that appears on every page.** — **Running head.** — CONFIRMED CORRECT
+
+**34. Error of concluding results are significant when there is no real effect in the population?** — **Type 1 error.** — CONFIRMED CORRECT
+
+**35. Which should be avoided for a formal report style?** — **Including personal opinions.** — CONFIRMED CORRECT
+*Source: Serdikoff APA chapter: formal writing avoids slang and contractions. Explaining abbreviations and using active voice are fine.*
+
+**36. Jennifer's best supporting sentence (social media and teenagers' mental health).** — **The effects of social media on mental health are complex and widespread.** — CONFIRMED CORRECT (repeat of Unit 2 Q2; the four-hours statistic is the known distractor)
+
+**37. True or false: chronological order explains steps, spatial order helps readers visualize, order of importance persuades or ranks.** — **True** — CONFIRMED CORRECT (repeat of Unit 3 Q13)
+
+**38. Match paragraph types with purposes (summary / analysis / synthesis / evaluation).** — **1-c, 2-d, 3-a, 4-b** — CONFIRMED CORRECT
+*Summary = condense to the essentials; Analysis = break down complex material and study how parts relate; Synthesis = combine two or more pieces of writing to make a new point; Evaluation = judge value and worth.*
+
+**39. The body paragraphs should closely follow the path set forth by the _____** — **Thesis statement.** — CONFIRMED CORRECT (repeat of Unit 2 Q11)
+
+**40. Scholarly article that gives a statistical summary of previous research findings?** — **Meta-analysis** — CONFIRMED CORRECT (repeat of Unit 2 Q14)
+
+---
+
+## Term 2 Review Quiz — running notes
+
+- **Score: 39/40.** The only miss was Q1 (classical conditioning). The key was **Conditioned stimulus**, which conflicts with the earlier Unit 1 self-quiz result for "Conditioned response".
+- About 20 of the 40 questions were repeats from earlier units, so the bank-first lookup handled most of the quiz.
+- New topics this quiz: abstracts (content, timing, tense, no citations), CRAAP and SIFT, Bloom's "understand" verbs, aims vs. objectives, editing vs. revising, APA page number and running head, Type 1 error, and academic paragraph types.
